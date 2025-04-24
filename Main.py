@@ -6,8 +6,8 @@ print(aux_accion)
 
 perro.imprimir_info()
 
-objPolla= Cliente()
-dato_nombre= objPolla.get_nombre()
+objSebastian= Cliente()
+dato_nombre= objSebastian.get_nombre()
 print(dato_nombre)
-objPolla.set_nombre("Polla")
-print(objPolla.get_nombre())
+objSebastian.set_nombre("Sebastian")
+print(objSebastian.get_nombre())
