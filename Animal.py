@@ -13,11 +13,11 @@ class Animal:
         return mensaje 
 
     def comer(self):
-        mensaje = "Animal Pichando.."
+        mensaje = "Animal comiendo.."
         return mensaje
 
     def dormir(self):
-        mensaje = "Animal pichado.." 
+        mensaje = "Animal durmiendo.." 
         return mensaje
 
     def imprimir_info(self):
